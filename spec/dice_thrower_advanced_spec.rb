@@ -1,4 +1,4 @@
-require 'spec_helper'
+ require 'spec_helper'
 
 describe 'roll_prompt' do
   it 'has a roll_prompt method' do
